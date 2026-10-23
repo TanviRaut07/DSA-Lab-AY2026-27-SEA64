@@ -1,7 +1,7 @@
 // Name: Tanvi Sudhir Raut
 // Roll No.: SEA64
 // Practical No. 2
-//
+// Student Result Database Management Using Array of Structures
 
 
 
