@@ -1,8 +1,7 @@
 // Name: Tanvi Sudhir Raut
 // Roll No.: SEA64
-// Practical No.6
-// Train Ticket Booking System Using Queue
-
+// Practical No.8
+// Binary Search Tree Operations for Online Directory System
 
 
 #include <stdio.h>
