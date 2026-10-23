@@ -1,3 +1,11 @@
+// Name: Tanvi Sudhir Raut
+// Roll No.: SEA64
+// Practical No.5
+// 
+
+
+
+
 #include <stdio.h>
 #define MAX 5
 int queue[MAX];
