@@ -1,8 +1,7 @@
 // Name: Tanvi Sudhir Raut
 // Roll No.: SEA64
-// Practical No. 1
-// Program to display different patterns using numbers, alphabets, and asterisks.
-
+// Practical No. 3
+// Searching Contact Names Using Sequential Search and Binary Search
 
 
 
