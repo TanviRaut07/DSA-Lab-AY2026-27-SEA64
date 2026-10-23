@@ -1,7 +1,7 @@
 // Name: Tanvi Sudhir Raut
 // Roll No.: SEA64
-// Practical No.8
-// Binary Search Tree Operations for Online Directory System
+// Practical No.9
+// Graph Traversal for Campus Navigation Using BFS and DFS
 
 
 #include <stdio.h>
