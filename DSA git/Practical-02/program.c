@@ -1,3 +1,10 @@
+// Name: Tanvi Sudhir Raut
+// Roll No.: SEA64
+// Practical No. 2
+//
+
+
+
 #include <stdio.h>
 typedef struct
 {
