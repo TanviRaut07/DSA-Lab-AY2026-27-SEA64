@@ -1,3 +1,10 @@
+// Name: Tanvi Sudhir Raut
+// Roll No.: SEA64
+// Practical No.6
+// Train Ticket Booking System Using Queue
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
