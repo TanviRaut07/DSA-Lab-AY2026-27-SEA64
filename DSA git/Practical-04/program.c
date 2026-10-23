@@ -1,3 +1,8 @@
+
+
+
+// Decimal to Binary Conversion Using Stack
+
 #include <stdio.h>
 #define MAX 32
 int stack[MAX];
