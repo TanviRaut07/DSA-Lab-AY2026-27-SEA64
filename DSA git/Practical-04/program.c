@@ -1,6 +1,6 @@
-
-
-
+// Name: Tanvi Sudhir Raut
+// Roll No.: SEA64
+// Practical No.4
 // Decimal to Binary Conversion Using Stack
 
 #include <stdio.h>
